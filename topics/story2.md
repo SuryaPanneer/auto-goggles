@@ -16,4 +16,6 @@ But, when he looked among the images in iron, marble, bronze, and brass, he fail
 
 To be continued...
 
-[Do you like to read the previous story?](story1) or go to [home page]({{ site.homeURL}} )
+[I like to read the previous story.](story1)
+[I like to see the list of Titanic passengers](story3)
+[I like to go to the home page]({{ site.homeURL }})
