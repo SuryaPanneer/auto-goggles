@@ -1,6 +1,5 @@
 ---
-
-
+layout: template
 ---
 
 # Short stories for everyone
