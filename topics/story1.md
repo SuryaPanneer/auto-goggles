@@ -18,7 +18,7 @@ I confess, for my part, that I HAVE been taken in, over and over again. I have b
 
 No. Believe me, my first impression of those people, founded on face and manner alone, was invariably true. My mistake was in suffering them to come nearer to me and explain themselves away.
 
-What do you want to do next?
-- [I like to read the next story.](story2)
+**What do you want to do next?**
+- [I like to read the next story](story2)
 - [I like to see the list of Titanic passengers](story3)
 - [I like to go to the home page]({{ site.homeURL }})

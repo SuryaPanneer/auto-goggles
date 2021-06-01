@@ -12,11 +12,12 @@ He lived in a busy place, and he worked very hard to live. He had no hope of eve
 There was over-much drumming, trumpeting, and speech-making, in the neighbourhood where he dwelt; but he had nothing to do with that. Such clash and uproar came from the Bigwig family, at the unaccountable proceedings of which race, he marvelled much. They set up the strangest statues, in iron, marble, bronze, and brass, before his door; and darkened his house with the legs and tails of uncouth images of horses. He wondered what it all meant, smiled in a rough good-humoured way he had, and kept at his hard work.
 
 But, when he looked among the images in iron, marble, bronze, and brass, he failed to find a rather meritorious countryman of his, once the son of a Warwickshire wool-dealer, or any single countryman whomsoever of that kind. He could find none of the men whose knowledge had rescued him and his children from terrific and disfiguring disease, whose boldness had raised his forefathers from the condition of serfs, whose wise fancy had opened a new and high existence to the humblest, whose skill had filled the working man's world with accumulated wonders. Whereas, he did find others whom he knew no good of, and even others whom he knew much ill of.
+
 "I don't understand this any the better," said he; "but I think it cannot be right. Nay, by the clouded Heaven above me, I protest against this as my wrong!"
 
 To be continued...
 
-What do you want to do next?
-- [I like to read the previous story.](story1)
+**What do you want to do next?**
+- [I like to read the previous story](story1)
 - [I like to see the list of Titanic passengers](story3)
 - [I like to go to the home page]({{ site.homeURL }})
