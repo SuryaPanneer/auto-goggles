@@ -15,8 +15,8 @@ Before you start working with resources in your account, familiarize yourself wi
 
 ### Accessing your invoices
 
-    To access an invoice for an account that's billed in USD currency, go to **Manage > Billing and usage**, and select **Invoices**.
-    To access an invoice for an account that's billed in non-USD currency, go to **Manage > Billing and usage**, and select **Invoices**. Then, click **IBM Invoices**.
+- To access an invoice for an account that's billed in USD currency, go to **Manage > Billing and usage**, and select **Invoices**.
+- To access an invoice for an account that's billed in non-USD currency, go to **Manage > Billing and usage**, and select **Invoices**. Then, click **IBM Invoices**.
 
 ## Step 7: Create your resource groups
 
