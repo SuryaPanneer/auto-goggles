@@ -2,7 +2,7 @@
 
 These individual short stories are the best of the best — and the even better news is that they're available for free online for you to peruse. From classics published in the 1900s to a short story that exploded in late 2017, here are ten of the greatest free short stories for you to read.
 
-## Short stories that you are looking for is here:
+## Short stories that you are looking for are here:
 
 ![sampleimagefile](280520112027.jpg)
 
