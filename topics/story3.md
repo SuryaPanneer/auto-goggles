@@ -8,4 +8,5 @@ Check out the names of real Titanic passengers:
 1. {{item.Name}}, {{item.Age}}
 {% endfor %}
 
-[Do you like to read some short stories?] go to [home page]({{ site.homeURL }}).
+What do you want to do next?
+- [I like to read some stories]({{ site.homeURL }})

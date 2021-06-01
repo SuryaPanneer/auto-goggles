@@ -16,6 +16,7 @@ But, when he looked among the images in iron, marble, bronze, and brass, he fail
 
 To be continued...
 
-[I like to read the previous story.](story1)
-[I like to see the list of Titanic passengers](story3)
-[I like to go to the home page]({{ site.homeURL }})
+What do you want to do next?
+- [I like to read the previous story.](story1)
+- [I like to see the list of Titanic passengers](story3)
+- [I like to go to the home page]({{ site.homeURL }})
