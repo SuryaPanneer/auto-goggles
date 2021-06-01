@@ -1,9 +1,9 @@
-img
+h1
 {
-  width: 300px;
+  color: blue;
 }
 
-p {
-  color: #343434;
-  font-family:  open sans, sans-serif;
+p
+{
+  color: green;
 }

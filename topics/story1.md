@@ -17,4 +17,4 @@ layout: template
 
 <p>No. Believe me, my first impression of those people, founded on face and manner alone, was invariably true. My mistake was in suffering them to come nearer to me and explain themselves away.</p>
 
-<p>[Do you like to read the next story?](story2) or go to [home page]({{ site.homeURL }})</p>
+[Do you like to read the next story?](story2) or go to [home page]({{ site.homeURL }})

@@ -21,4 +21,4 @@ layout: template
 <p>To be continued...</p>
 
 
-<p>[Do you like to read the previous story?](story1) or go to [home page]({{ site.homeURL}} )</p>
+[Do you like to read the previous story?](story1) or go to [home page]({{ site.homeURL}} )
