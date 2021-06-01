@@ -28,4 +28,5 @@ But, the Bigwig family broke out into violent family quarrels concerning what it
 "I don't understand this any the better," said he; "but I think it cannot be right. Nay, by the clouded Heaven above me, I protest against this as my wrong!"
 To be continued...
 
-[Do you like to read the previous story?](story1) or go to [home page]((site.homeURL)
+
+[Do you like to read the previous story?](story1) or go to [home page]({{ site.homeURL}} )
