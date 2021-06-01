@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Nobody's story
 **A Short Christmas Story by Charles Dickens**
 

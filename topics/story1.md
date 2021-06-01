@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Hunted down
 
 **A Short Detective Story by Charles Dickens**
